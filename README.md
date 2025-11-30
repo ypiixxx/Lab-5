@@ -37,4 +37,4 @@ else:
 	print ('Hello, World!')
 ```
 
-![Изображение]("C:\Users\User\Downloads\загружено (6).jpg")
+![Изображение](https://ru.pinterest.com/pin/745908757074043139/)
