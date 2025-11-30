@@ -29,3 +29,12 @@ ___жирный курсив___
 [Pinterest](https://ru.pinterest.com/) 
 
 <https://ru.pinterest.com>
+
+```python
+if x > 0:
+	print (x)
+else:
+	print ('Hello, World!')
+```
+
+![Изображение]("C:\Users\User\Downloads\загружено (6).jpg")
