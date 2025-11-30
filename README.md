@@ -37,4 +37,4 @@ else:
 	print ('Hello, World!')
 ```
 
-![Изображение](https://ru.pinterest.com/pin/745908757074043139/)
+![Изображение](https://avatars.mds.yandex.net/i?id=1fc07f37bd1e18a9cf52de670ff0526b_l-5302022-images-thumbs&n=13)
