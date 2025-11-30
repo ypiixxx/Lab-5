@@ -26,8 +26,6 @@ ___жирный курсив___
 - [x] отмеченный пункт
 - [ ] неотмеченный пункт
 
-[Pinterest](https://ru.pinterest.com/) без подсказки
-
-[Pinterest](https://ru.pinterest.com/ "Всплывающая подсказка") с подсказкой
+[Pinterest](https://ru.pinterest.com/) 
 
 <https://ru.pinterest.com>
